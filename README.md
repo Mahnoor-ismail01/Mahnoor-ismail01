@@ -1,5 +1,5 @@
 # Hi there 👋 I am Mahnoor Ismail
-###Software Engineering Final year student
+### Software Engineering Final year student
 <!--
 **Mahnoor-ismail01/Mahnoor-ismail01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
