@@ -1,5 +1,10 @@
 # Hi there 👋 I am Mahnoor Ismail
 ### Software Engineering Final year student
+#### I am a python developer 
+## Current Projects:
+- Simulating image classification TFLite model running on zephyr RTOS (RISCV ported) booted on Litex-vexriscv SoC on Renode.
+- Burq Suite (all in one RISCV suite). Full-featured IDE for creating customised SoCs, Cores, and/or components, as well as core and SoC verification. Additionally, there is a built-in FPGA software development kit, as well as automatic RTL bit stream generation and burning it on FPGA.
+- VidToPick (FYP) this application will assist you in locating a specific topic among a large number of videos, as well as marking the timestamp at which the topic occurred. Machine learning models are used throughout the entire process.
 <!--
 **Mahnoor-ismail01/Mahnoor-ismail01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
