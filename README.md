@@ -1,4 +1,4 @@
-# Hi there 👋 I am Mahnoor Ismai
+# Hi there 👋 I am Mahnoor Ismail
 ###coder 
 <!--
 **Mahnoor-ismail01/Mahnoor-ismail01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
