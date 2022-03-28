@@ -14,7 +14,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-E10098?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-E10098?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-E10098?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/git-E10098?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-E10098?style=for-the-badge&logo=git&logoColor=orange)
 ![C](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Django](https://img.shields.io/badge/C-E10098?style=for-the-badge&logo=C&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-E10098?style=for-the-badge&logo=Kubernetes&logoColor=white)
