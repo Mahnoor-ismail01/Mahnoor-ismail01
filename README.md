@@ -20,7 +20,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes&logoColor=purple)
 ![Flask](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask&logoColor=black)
 ![Electron](https://img.shields.io/badge/electron-skyblue?style=for-the-badge&logo=electron&logoColor=darkblue)
-![Oracle](https://img.shields.io/badge/oracle-orange?style=for-the-badge&logo=oracle&logoColor=red)
+![Oracle](https://img.shields.io/badge/oracle-yellow?style=for-the-badge&logo=oracle&logoColor=red)
 ![MySQL](https://img.shields.io/badge/-mysql-blue?style=for-the-badge&logo=mysql&logoColor=yellow)
 ![figma](https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=green)
 ![tkinter](https://img.shields.io/badge/tkinter-blue?style=for-the-badge&logo=python&logoColor=yellow)
