@@ -1,6 +1,6 @@
 # Hi there 👋 I am Mahnoor Ismail
 ### Software Engineering Final year student
-#### I am a python developer..
+#### I am a python developer.
 ## Current Projects:
 - Simulating image classification TFLite model running on zephyr RTOS (RISCV ported) booted on Litex-vexriscv SoC on Renode.
 - Burq Suite (all in one RISCV suite). Full-featured IDE for creating customised SoCs, Cores, and/or components, as well as core and SoC verification. Additionally, there is a built-in FPGA software development kit, as well as automatic RTL bit stream generation and burning it on FPGA.
