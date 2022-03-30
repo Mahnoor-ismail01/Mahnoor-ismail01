@@ -22,7 +22,7 @@
 ![Electron](https://img.shields.io/badge/electron-skyblue?style=for-the-badge&logo=electron&logoColor=darkblue)
 ![Oracle](https://img.shields.io/badge/oracle-cyan?style=for-the-badge&logo=oracle&logoColor=red)
 ![MySQL](https://img.shields.io/badge/-mysql-yellow?style=for-the-badge&logo=mysql&logoColor=blue)
-![figma](https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=green)
+![figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=green)
 ![tkinter](https://img.shields.io/badge/tkinter-blue?style=for-the-badge&logo=python&logoColor=yellow)
 ![QT](https://img.shields.io/badge/QT-grey?style=for-the-badge&logo=QT&logoColor=green)
 ![Postman](https://img.shields.io/badge/postman-purple?style=for-the-badge&logo=postman&logoColor=orange)
