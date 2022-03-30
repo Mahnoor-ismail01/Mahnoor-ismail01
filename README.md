@@ -25,7 +25,7 @@
 ![figma](https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=green)
 ![tkinter](https://img.shields.io/badge/tkinter-blue?style=for-the-badge&logo=python&logoColor=yellow)
 ![QT](https://img.shields.io/badge/QT-grey?style=for-the-badge&logo=QT&logoColor=green)
-![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=orange)
+![Postman](https://img.shields.io/badge/postman-purple?style=for-the-badge&logo=postman&logoColor=orange)
 ![adobe_illustrator](https://img.shields.io/badge/adobe_illustrator-orange?style=for-the-badge&logo=adobe-illustrator&logoColor=brown)
 
 <!--
