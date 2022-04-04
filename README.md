@@ -29,7 +29,7 @@
 ![adobe_illustrator](https://img.shields.io/badge/adobe_illustrator-orange?style=for-the-badge&logo=adobe-illustrator&logoColor=brown)
 
 <!--
-**Mahnoor-ismail01/Mahnoor-ismail01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mahnoor-ismail01/Mahnoor-ismail01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your ...GitHub profile.
 
 
 
