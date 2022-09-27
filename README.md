@@ -3,7 +3,7 @@
 #### I am a python developer.
 ## Current Projects:
 - Simulating image classification TFLite model running on zephyr RTOS (RISCV ported) booted on Litex-vexriscv SoC on Renode.
-- Burq Suite (all in one RISCV suite). Full-featured IDE for creating customised SoCs, Cores, and/or components, as well as core and SoC verification. Additionally, there is a built-in FPGA software development kit, as well as automatic RTL bit stream generation and burning it on FPGA.
+- Burq Suite Automated RISCV Core Verification Suite.
 - VidToPick (FYP) this application will assist you in locating a specific topic among a large number of videos, as well as marking the timestamp at which the topic occurred. Machine learning models are used throughout the entire process.
 ## Skills and Languages:
 ![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=green)
