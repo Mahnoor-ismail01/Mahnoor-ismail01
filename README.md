@@ -1,7 +1,8 @@
 # Hi there 👋 I am Mahnoor Ismail
-### Software Engineering Final year student
-#### I am a python developer.
-## Current Projects:
+### Software Engineering
+
+## Projects:
+- Working on Co-Simulation.
 - Simulating image classification TFLite model running on zephyr RTOS (RISCV ported) booted on Litex-vexriscv SoC on Renode.
 - Burq Suite Automated RISCV Core Verification Suite.
 - VidToPick (FYP) this application will assist you in locating a specific topic among a large number of videos, as well as marking the timestamp at which the topic occurred. Machine learning models are used throughout the entire process.
