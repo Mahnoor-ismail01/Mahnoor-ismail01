@@ -1,5 +1,5 @@
 # Hi there 👋 I am Mahnoor Ismail
-### Software Engineering
+### Software Engineer
 
 ## Projects:
 - Working on Co-Simulation.
