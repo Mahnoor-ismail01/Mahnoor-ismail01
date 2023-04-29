@@ -1,4 +1,4 @@
-#  I am Mahnoor Ismail
+#  Mahnoor Ismail
 ### I'm a highly skilled software engineer and hardware designer who thrives on challenging projects. I have expertise in RISC-V architectures, Python, Django, web development, and machine learning. I'm always eager to learn new technologies and collaborate with diverse teams to create innovative solutions. Let's connect and build something amazing together! 🌟
 
 ## Projects:
