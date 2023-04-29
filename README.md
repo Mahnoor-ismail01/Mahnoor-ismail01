@@ -2,11 +2,14 @@
 ### I'm a highly skilled software engineer and hardware designer who thrives on challenging projects. I have expertise in RISC-V architectures, Python, Django, web development, and machine learning. I'm always eager to learn new technologies and collaborate with diverse teams to create innovative solutions. Let's connect and build something amazing together! 🌟
 
 ## Projects:
+- **ChipShop**, a cloud based GUI for accelerating SoC Design. It is based on Chipyard which is a CHISEL based SoC generator developed by UC Berkeley. ChipShop provides a cloud based web interface GUI with which users can generate SoCs with ease and prototype it on an FPGA without diving into code. Also, user’s can share their designs with each other and collaborate easily with real time collaboration features.
+- **Burq Suite** is a comprehensive desktop application crafted using HTML, CSS, and Python Eel, which plays a pivotal role in connecting frontend and backend functionality. Designed specifically for RISC-V architectures, the suite empowers chip designers to verify their core by executing tests and contrasting the outcomes with the RISC-V specified golden model Instruction Set Simulator (ISS), featuring Spike and Whisper. Moreover, the integration of RISC-V DV enhances the verification process, which is vital for guaranteeing the core's exceptional quality and reliability.
 - Working on Co-Simulation.
 - Simulating image classification TFLite model running on zephyr RTOS (RISCV ported) booted on Litex-vexriscv SoC on Renode.
-- Burq Suite Automated RISCV Core Verification Suite.
-- VidToPick (FYP) this application will assist you in locating a specific topic among a large number of videos, as well as marking the timestamp at which the topic occurred. Machine learning models are used throughout the entire process.
+- **VidToPick **(Final Year Project): Machine Learning based keyword pointer and highlighter. It takes any youtube video as input from user and the keywords to find, as output the subtitles generated from the ML model will be provided and those keywords occurence highlighted in the video by using python.
 ## Skills and Languages:
+![Chisel]
+![Scala]
 ![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=green)
 ![Html](https://img.shields.io/badge/Html-%2302569B.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
