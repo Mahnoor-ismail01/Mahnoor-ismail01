@@ -6,9 +6,9 @@
 - **Burq Suite** is a comprehensive desktop application crafted using HTML, CSS, and Python Eel, which plays a pivotal role in connecting frontend and backend functionality. Designed specifically for RISC-V architectures, the suite empowers chip designers to verify their core by executing tests and contrasting the outcomes with the RISC-V specified golden model Instruction Set Simulator (ISS), featuring Spike and Whisper. Moreover, the integration of RISC-V DV enhances the verification process, which is vital for guaranteeing the core's exceptional quality and reliability.
 - Working on Co-Simulation.
 - Simulating image classification TFLite model running on zephyr RTOS (RISCV ported) booted on Litex-vexriscv SoC on Renode.
-- **VidToPick **(Final Year Project): Machine Learning based keyword pointer and highlighter. It takes any youtube video as input from user and the keywords to find, as output the subtitles generated from the ML model will be provided and those keywords occurence highlighted in the video by using python.
+- **VidToPick** (Final Year Project): Machine Learning based keyword pointer and highlighter. It takes any youtube video as input from user and the keywords to find, as output the subtitles generated from the ML model will be provided and those keywords occurence highlighted in the video by using python.
 ## Skills and Languages:
-![Chisel]
+![Chisel](https://img.shields.io/badge/chisel-%230175C2.svg?style=for-the-badge&logo=chiseln&logoColor=white)
 ![Scala]
 ![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=green)
 ![Html](https://img.shields.io/badge/Html-%2302569B.svg?style=for-the-badge&logo=html5&logoColor=white)
