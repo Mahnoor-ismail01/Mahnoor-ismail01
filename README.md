@@ -9,7 +9,7 @@
 - **VidToPick** (Final Year Project): Machine Learning based keyword pointer and highlighter. It takes any youtube video as input from user and the keywords to find, as output the subtitles generated from the ML model will be provided and those keywords occurence highlighted in the video by using python.
 ## Skills and Languages:
 ![Chisel](https://img.shields.io/badge/chisel-%230175C2.svg?style=for-the-badge&logo=chiseln&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-%230175C2.svg?style=for-the-badge&logo=Scala&logoColor=blue)
+![Scala](https://img.shields.io/badge/Scala-%230175C2.svg?style=for-the-badge&logo=Scala&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=green)
 ![Html](https://img.shields.io/badge/Html-%2302569B.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
